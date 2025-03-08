@@ -12,11 +12,8 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*
-- 💡 Passionate about *Technology, Data, and Web Development*
-- 🛠️ Exploring *Machine Learning, Backend Development, and Cloud Computing*
-- 🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*
+## 🌻 About Me
+Hello! I am **Marvitha Khairani Evaninta Butar Butar**, an **Information Technology** student at **Universitas Sumatera Utara** with a strong interest in **Data Analytics, Web Development, and Machine Learning**. I have a high enthusiasm for learning, adaptability, and a passion for exploring new technologies.
 
 ---
 
