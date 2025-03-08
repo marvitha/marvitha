@@ -5,9 +5,7 @@ Repository Praktikum IMK
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;Open+Source+Contributor+🌍">
-</p>
+
 
 ---
 
