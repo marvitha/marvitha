@@ -1,5 +1,5 @@
 # marvitha_khairani
-📌 Repository Praktikum IMK  
+📌 Repository Praktikum IMK
 
 <h1 align="center">Hi there, I'm Marvitha 👋</h1>
 <p align="center">
@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%238ABAD3&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Aspiring+Data+Analyst+📊;Tech+Enthusiast+💻;Open+Source+Contributor+🌍">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%238ABAD3&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Aspiring+Data+Analyst+📊;Tech+Enthusiast+💻">
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*  
-- 💡 Passionate about *Technology, Data, and Web Development*  
-- 🛠️ Exploring *Machine Learning, Backend Development, and Cloud Computing*  
-- 🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*  
+- 🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*
+- 💡 Passionate about *Technology, Data, and Web Development*
+- 🛠️ Exploring *Machine Learning, Backend Development, and Cloud Computing*
+- 🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*
 
 ---
 
@@ -29,25 +29,25 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvitha-khairani&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marvitha&show_icons=true&theme=blueberry" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvitha-khairani&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvitha&theme=blueberry" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvitha-khairani&layout=compact&theme=blueberry" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvitha&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔄 Latest Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvitha-khairani&theme=blueberry&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvitha&theme=blueberry&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
